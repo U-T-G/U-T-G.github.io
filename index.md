@@ -1,20 +1,20 @@
-### 个人信息
-####  姓名 林治平
-####  学历 在读硕士
-####  学校 电子科技大学
-####  邮箱 201921080534@std.uestc.edu.cn
-####  地址 四川省成都市高新西区西源大道2004号
+### Personal Information
+####  Name Zhiping Lin
+####  Major Computer science and Engineering
+####  School University of Electronic Science and Technology of China, studying for master's degree
+####  Email 201921080534@std.uestc.edu.cn
+####  address No.2004 Xiyuan Avenue, high tech West District, Chengdu, Sichuan, China
 
 
-### 研究方向
-- 聚类分析
-- 图像处理
+### Reasearch fields
+- Cluster analysis
+- Computer vision
 
-### 学习经历
-#### 电子科技大学电气工程及其自动化本科学习（2015.9-2019.6）
-#### 电子科技大学计算机科学与工程学院学习（2019.9-至今）
+### Education
+#### Bachelor of electrical engineering and automation, University of Electronic Science and technology（2015.9-2019.6）
+#### School of computer science and engineering, University of Electronic Science and technology，studying for master's degree（2019.9-now）
 
-### 论文发表
+### Publication of papers
 - Structured Graph Learning for Scalable Subspace Clustering: From Single-view to Multi-view. IEEE Transactions on Cybernetics , under review.
 
 
@@ -23,5 +23,4 @@
 
 
 
-- Multi-view Attributed Graph Clustering. IEEE Transactions on Knowledge and Data Engineering, under review.
 
