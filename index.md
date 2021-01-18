@@ -3,7 +3,7 @@
 ####  Major Computer science and Engineering
 ####  School University of Electronic Science and Technology of China, studying for master's degree
 ####  Email 201921080534@std.uestc.edu.cn
-####  address No.2004 Xiyuan Avenue, high tech West District, Chengdu, Sichuan, China
+####  Address No.2004 Xiyuan Avenue, high tech West District, Chengdu, Sichuan, China
 
 
 ### Reasearch fields
